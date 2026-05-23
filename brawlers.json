@@ -13,8 +13,16 @@
         "Hot Zone": "A",
         "Knockout": "B"
       },
-      "counters": ["Bull", "El Primo", "Bibi"],
-      "synergies": ["Poco", "Gene", "Sandy"],
+      "counters": [
+        "Bull",
+        "El Primo",
+        "Bibi"
+      ],
+      "synergies": [
+        "Poco",
+        "Gene",
+        "Sandy"
+      ],
       "super": "Super Coquille",
       "description": "Solide en Brawl Ball grâce à son Super qui détruit les murs."
     },
@@ -31,10 +39,18 @@
         "Hot Zone": "B",
         "Knockout": "A"
       },
-      "counters": ["Piper", "Belle", "Brock"],
-      "synergies": ["Byron", "Poco", "Tick"],
+      "counters": [
+        "Piper",
+        "Belle",
+        "Brock"
+      ],
+      "synergies": [
+        "Byron",
+        "Poco",
+        "Tick"
+      ],
       "super": "Coup de Tonnerre",
-      "description": "Excellent en Heist pour détruire le coffre à longue portée."
+      "description": "Excellent en Heist, buffé récemment et très fiable en méta mai 2026."
     },
     "Bull": {
       "classe": "Tank",
@@ -49,13 +65,21 @@
         "Hot Zone": "A",
         "Knockout": "C"
       },
-      "counters": ["Shelly", "Darryl", "El Primo"],
-      "synergies": ["Poco", "Byron", "Sandy"],
+      "counters": [
+        "Shelly",
+        "Darryl",
+        "El Primo"
+      ],
+      "synergies": [
+        "Poco",
+        "Byron",
+        "Sandy"
+      ],
       "super": "Enrage",
-      "description": "Tank agressif, dominant en Brawl Ball et Hot Zone sur petites maps."
+      "description": "Tank agressif, dominant en Brawl Ball et Hot Zone."
     },
     "Brock": {
-      "classe": "Damage Dealer",
+      "classe": "Marksman",
       "emoji": "🚀",
       "portee": "Longue",
       "tiers": {
@@ -67,8 +91,16 @@
         "Hot Zone": "C",
         "Knockout": "A"
       },
-      "counters": ["Leon", "Sandy", "Crow"],
-      "synergies": ["Tick", "Gale", "Sprout"],
+      "counters": [
+        "Leon",
+        "Sandy",
+        "Crow"
+      ],
+      "synergies": [
+        "Tick",
+        "Gale",
+        "Sprout"
+      ],
       "super": "Roquette",
       "description": "Sniper sur maps ouvertes, excellent en Bounty et Siege."
     },
@@ -85,13 +117,21 @@
         "Hot Zone": "S",
         "Knockout": "C"
       },
-      "counters": ["Piper", "Brock", "8-Bit"],
-      "synergies": ["Byron", "Poco", "Sandy"],
+      "counters": [
+        "Piper",
+        "Brock",
+        "8-Bit"
+      ],
+      "synergies": [
+        "Byron",
+        "Poco",
+        "Sandy"
+      ],
       "super": "Saut Luchador",
       "description": "Excellent en Hot Zone pour contester les zones grâce à son saut."
     },
     "Barley": {
-      "classe": "Support/Control",
+      "classe": "Artillerie",
       "emoji": "🍺",
       "portee": "Longue (courbe)",
       "tiers": {
@@ -103,10 +143,18 @@
         "Hot Zone": "S",
         "Knockout": "B"
       },
-      "counters": ["Leon", "Mortis", "Buzz"],
-      "synergies": ["Sprout", "Gale", "Frank"],
+      "counters": [
+        "Leon",
+        "Mortis",
+        "Buzz"
+      ],
+      "synergies": [
+        "Sprout",
+        "Gale",
+        "Frank"
+      ],
       "super": "Dernier Appel",
-      "description": "Contrôleur de zone, parfait en Hot Zone pour empêcher les ennemis de contester."
+      "description": "Contrôleur de zone, parfait en Hot Zone."
     },
     "Poco": {
       "classe": "Support",
@@ -121,10 +169,18 @@
         "Hot Zone": "A",
         "Knockout": "B"
       },
-      "counters": ["Bull", "El Primo", "Darryl"],
-      "synergies": ["Frank", "El Primo", "Bull"],
+      "counters": [
+        "Bull",
+        "El Primo",
+        "Darryl"
+      ],
+      "synergies": [
+        "Frank",
+        "El Primo",
+        "Bull"
+      ],
       "super": "Encore",
-      "description": "Meilleur healer du jeu, indispensable en Gem Grab pour soutenir son équipe."
+      "description": "Meilleur healer du jeu, indispensable en Gem Grab."
     },
     "Rosa": {
       "classe": "Tank",
@@ -139,8 +195,16 @@
         "Hot Zone": "A",
         "Knockout": "C"
       },
-      "counters": ["Brock", "Piper", "Colt"],
-      "synergies": ["Poco", "Byron", "Gene"],
+      "counters": [
+        "Brock",
+        "Piper",
+        "Colt"
+      ],
+      "synergies": [
+        "Poco",
+        "Byron",
+        "Gene"
+      ],
       "super": "Bouclier Végétal",
       "description": "Tank polyvalent avec un super offrant une invincibilité temporaire."
     },
@@ -157,13 +221,21 @@
         "Hot Zone": "B",
         "Knockout": "B"
       },
-      "counters": ["Mortis", "Buzz", "Leon"],
-      "synergies": ["Gale", "Sprout", "Barley"],
+      "counters": [
+        "Mortis",
+        "Buzz",
+        "Leon"
+      ],
+      "synergies": [
+        "Gale",
+        "Sprout",
+        "Barley"
+      ],
       "super": "Sentrieur",
       "description": "Sa tourelle est déterminante en Siege pour défendre la base."
     },
     "Dynamike": {
-      "classe": "Damage Dealer",
+      "classe": "Artillerie",
       "emoji": "💣",
       "portee": "Longue (courbe)",
       "tiers": {
@@ -175,13 +247,21 @@
         "Hot Zone": "A",
         "Knockout": "B"
       },
-      "counters": ["Mortis", "Buzz", "Leon"],
-      "synergies": ["Sprout", "Barley", "Gale"],
+      "counters": [
+        "Mortis",
+        "Buzz",
+        "Leon"
+      ],
+      "synergies": [
+        "Sprout",
+        "Barley",
+        "Gale"
+      ],
       "super": "Méga Bombe",
-      "description": "Lanceur de bombes très efficace en Heist pour endommager le coffre."
+      "description": "Lanceur de bombes très efficace en Heist."
     },
     "Tick": {
-      "classe": "Support/Control",
+      "classe": "Artillerie",
       "emoji": "🤖",
       "portee": "Longue",
       "tiers": {
@@ -193,10 +273,18 @@
         "Hot Zone": "A",
         "Knockout": "A"
       },
-      "counters": ["Mortis", "Buzz", "Leon"],
-      "synergies": ["Barley", "Gale", "Sprout"],
+      "counters": [
+        "Mortis",
+        "Buzz",
+        "Leon"
+      ],
+      "synergies": [
+        "Barley",
+        "Gale",
+        "Sprout"
+      ],
       "super": "Détachement de Tête",
-      "description": "Excellent contrôleur de zone avec ses mines, très utile en Siege."
+      "description": "Excellent contrôleur de zone avec ses mines."
     },
     "8-Bit": {
       "classe": "Damage Dealer",
@@ -211,10 +299,18 @@
         "Hot Zone": "B",
         "Knockout": "A"
       },
-      "counters": ["Mortis", "Bull", "El Primo"],
-      "synergies": ["Brock", "Colt", "Piper"],
+      "counters": [
+        "Mortis",
+        "Bull",
+        "El Primo"
+      ],
+      "synergies": [
+        "Brock",
+        "Colt",
+        "Piper"
+      ],
       "super": "Turbo Boost",
-      "description": "Son super augmente les dégâts de toute l'équipe, excellent en Heist."
+      "description": "Son super augmente les dégâts de toute l équipe, excellent en Heist."
     },
     "Leon": {
       "classe": "Assassin",
@@ -229,13 +325,21 @@
         "Hot Zone": "B",
         "Knockout": "S"
       },
-      "counters": ["Shelly", "Darryl", "Bibi"],
-      "synergies": ["Byron", "Sandy", "Poco"],
+      "counters": [
+        "Shelly",
+        "Darryl",
+        "Bibi"
+      ],
+      "synergies": [
+        "Byron",
+        "Sandy",
+        "Poco"
+      ],
       "super": "Super Lames",
-      "description": "Assassin furtif, dominant en Bounty et Knockout sur maps avec couverture."
+      "description": "Assassin furtif, dominant en Bounty et Knockout. Top 10 méta mai 2026."
     },
     "Sandy": {
-      "classe": "Support/Control",
+      "classe": "Controller",
       "emoji": "🏜️",
       "portee": "Moyenne",
       "tiers": {
@@ -247,13 +351,21 @@
         "Hot Zone": "S",
         "Knockout": "A"
       },
-      "counters": ["Brock", "Piper", "Belle"],
-      "synergies": ["Leon", "Crow", "Mortis"],
+      "counters": [
+        "Brock",
+        "Piper",
+        "Belle"
+      ],
+      "synergies": [
+        "Leon",
+        "Crow",
+        "Mortis"
+      ],
       "super": "Tempête de Sable",
-      "description": "Support top tier, son super offre une invisibilité d'équipe dévastatrice."
+      "description": "Support top tier, son super offre une invisibilité d équipe dévastatrice."
     },
     "Amber": {
-      "classe": "Damage Dealer",
+      "classe": "Controller",
       "emoji": "🔥",
       "portee": "Moyenne",
       "tiers": {
@@ -265,14 +377,22 @@
         "Hot Zone": "A",
         "Knockout": "B"
       },
-      "counters": ["Leon", "Mortis", "Buzz"],
-      "synergies": ["Poco", "Byron", "Sandy"],
+      "counters": [
+        "Leon",
+        "Mortis",
+        "Buzz"
+      ],
+      "synergies": [
+        "Poco",
+        "Byron",
+        "Sandy"
+      ],
       "super": "Mer de Feu",
       "description": "Contrôle de zone avec sa mare de feu, excellent en Siege."
     },
     "Crow": {
       "classe": "Assassin",
-      "emoji": "🐦‍⬛",
+      "emoji": "🐦",
       "portee": "Moyenne",
       "tiers": {
         "Gem Grab": "B",
@@ -283,10 +403,18 @@
         "Hot Zone": "A",
         "Knockout": "S"
       },
-      "counters": ["Brock", "Piper", "8-Bit"],
-      "synergies": ["Sandy", "Byron", "Poco"],
+      "counters": [
+        "Brock",
+        "Piper",
+        "8-Bit"
+      ],
+      "synergies": [
+        "Sandy",
+        "Byron",
+        "Poco"
+      ],
       "super": "Plongée",
-      "description": "Assassin polyvalent, son poison rend les heals moins efficaces."
+      "description": "Assassin polyvalent, top méta en ce moment. Son poison rend les heals moins efficaces."
     },
     "Spike": {
       "classe": "Damage Dealer",
@@ -301,13 +429,21 @@
         "Hot Zone": "S",
         "Knockout": "A"
       },
-      "counters": ["El Primo", "Bull", "Rosa"],
-      "synergies": ["Sandy", "Poco", "Gene"],
+      "counters": [
+        "El Primo",
+        "Bull",
+        "Rosa"
+      ],
+      "synergies": [
+        "Sandy",
+        "Poco",
+        "Gene"
+      ],
       "super": "Pointe Épineuse",
-      "description": "Top tier en Gem Grab et Hot Zone, contrôle de zone exceptionnel."
+      "description": "Top tier en Gem Grab et Hot Zone. Top S tier mai 2026."
     },
     "Gene": {
-      "classe": "Support",
+      "classe": "Controller",
       "emoji": "🧞",
       "portee": "Longue",
       "tiers": {
@@ -319,14 +455,22 @@
         "Hot Zone": "A",
         "Knockout": "B"
       },
-      "counters": ["Mortis", "Leon", "Crow"],
-      "synergies": ["Frank", "El Primo", "Rosa"],
+      "counters": [
+        "Mortis",
+        "Leon",
+        "Crow"
+      ],
+      "synergies": [
+        "Frank",
+        "El Primo",
+        "Rosa"
+      ],
       "super": "Main Magique",
-      "description": "Son super qui attire les ennemis est décisif en Gem Grab pour récupérer les gemmes."
+      "description": "Son super qui attire les ennemis est décisif en Gem Grab."
     },
     "Max": {
       "classe": "Support",
-      "emoji": "⚡",
+      "emoji": "💨",
       "portee": "Moyenne",
       "tiers": {
         "Gem Grab": "A",
@@ -337,8 +481,16 @@
         "Hot Zone": "A",
         "Knockout": "A"
       },
-      "counters": ["Mortis", "Leon", "Crow"],
-      "synergies": ["Bull", "El Primo", "Leon"],
+      "counters": [
+        "Mortis",
+        "Leon",
+        "Crow"
+      ],
+      "synergies": [
+        "Bull",
+        "El Primo",
+        "Leon"
+      ],
       "super": "Super Boost",
       "description": "Support universel, son super de vitesse est utile dans tous les modes."
     },
@@ -355,13 +507,21 @@
         "Hot Zone": "B",
         "Knockout": "A"
       },
-      "counters": ["Shelly", "Darryl", "Bibi"],
-      "synergies": ["Byron", "Sandy", "Poco"],
+      "counters": [
+        "Shelly",
+        "Darryl",
+        "Bibi"
+      ],
+      "synergies": [
+        "Byron",
+        "Sandy",
+        "Poco"
+      ],
       "super": "Armée de Chauves-Souris",
-      "description": "Excellent pour éliminer les supports et contrôleurs de zone."
+      "description": "Top 10 méta, excellent pour éliminer les supports."
     },
     "Tara": {
-      "classe": "Support/Assassin",
+      "classe": "Damage Dealer",
       "emoji": "🃏",
       "portee": "Moyenne",
       "tiers": {
@@ -373,10 +533,18 @@
         "Hot Zone": "A",
         "Knockout": "A"
       },
-      "counters": ["Leon", "Mortis", "Crow"],
-      "synergies": ["Poco", "Byron", "Sandy"],
+      "counters": [
+        "Leon",
+        "Mortis",
+        "Crow"
+      ],
+      "synergies": [
+        "Poco",
+        "Byron",
+        "Sandy"
+      ],
       "super": "Trou Noir",
-      "description": "Son super aspire tous les ennemis, combo dévastateur avec AoE."
+      "description": "Son super aspire tous les ennemis, combo dévastateur."
     },
     "Bibi": {
       "classe": "Tank",
@@ -391,13 +559,21 @@
         "Hot Zone": "A",
         "Knockout": "B"
       },
-      "counters": ["Piper", "Brock", "Belle"],
-      "synergies": ["Poco", "Byron", "Sandy"],
+      "counters": [
+        "Piper",
+        "Brock",
+        "Belle"
+      ],
+      "synergies": [
+        "Poco",
+        "Byron",
+        "Sandy"
+      ],
       "super": "Bubble Trouble",
-      "description": "Très forte en Brawl Ball grâce à sa vitesse et sa résistance."
+      "description": "Très forte en Brawl Ball, revenue en A tier après les récents buffs."
     },
     "Bea": {
-      "classe": "Damage Dealer",
+      "classe": "Marksman",
       "emoji": "🐝",
       "portee": "Longue",
       "tiers": {
@@ -409,13 +585,21 @@
         "Hot Zone": "B",
         "Knockout": "S"
       },
-      "counters": ["Mortis", "Leon", "Buzz"],
-      "synergies": ["Sprout", "Gale", "Barley"],
-      "super": "Invasion d'Abeilles",
+      "counters": [
+        "Mortis",
+        "Leon",
+        "Buzz"
+      ],
+      "synergies": [
+        "Sprout",
+        "Gale",
+        "Barley"
+      ],
+      "super": "Invasion d Abeilles",
       "description": "Sniper redoutable en Bounty et Knockout grâce à ses dégâts amplifiés."
     },
     "Piper": {
-      "classe": "Sniper",
+      "classe": "Marksman",
       "emoji": "☂️",
       "portee": "Très longue",
       "tiers": {
@@ -427,8 +611,16 @@
         "Hot Zone": "C",
         "Knockout": "S"
       },
-      "counters": ["Mortis", "Leon", "Buzz"],
-      "synergies": ["Gale", "Sprout", "Barley"],
+      "counters": [
+        "Mortis",
+        "Leon",
+        "Buzz"
+      ],
+      "synergies": [
+        "Gale",
+        "Sprout",
+        "Barley"
+      ],
       "super": "Parapluie",
       "description": "Meilleure snipeuse du jeu en Bounty, dévastatrice sur maps ouvertes."
     },
@@ -445,13 +637,21 @@
         "Hot Zone": "A",
         "Knockout": "A"
       },
-      "counters": ["Mortis", "Leon", "Crow"],
-      "synergies": ["Bull", "El Primo", "Rosa"],
+      "counters": [
+        "Mortis",
+        "Leon",
+        "Crow"
+      ],
+      "synergies": [
+        "Bull",
+        "El Primo",
+        "Rosa"
+      ],
       "super": "Injection Massive",
       "description": "Support universel, soigne de loin tout en infligeant des dégâts."
     },
     "Sprout": {
-      "classe": "Support/Control",
+      "classe": "Artillerie",
       "emoji": "🌱",
       "portee": "Moyenne",
       "tiers": {
@@ -463,9 +663,17 @@
         "Hot Zone": "A",
         "Knockout": "B"
       },
-      "counters": ["Mortis", "Leon", "Buzz"],
-      "synergies": ["Barley", "Gale", "Jessie"],
-      "super": "Bouclier Végétal",
+      "counters": [
+        "Mortis",
+        "Leon",
+        "Buzz"
+      ],
+      "synergies": [
+        "Barley",
+        "Gale",
+        "Jessie"
+      ],
+      "super": "Mur Végétal",
       "description": "Crée des murs avec son super, excellent pour bloquer les passages en Siege."
     },
     "Buzz": {
@@ -481,13 +689,21 @@
         "Hot Zone": "S",
         "Knockout": "A"
       },
-      "counters": ["Shelly", "Darryl", "Bibi"],
-      "synergies": ["Byron", "Sandy", "Poco"],
+      "counters": [
+        "Shelly",
+        "Darryl",
+        "Bibi"
+      ],
+      "synergies": [
+        "Byron",
+        "Sandy",
+        "Poco"
+      ],
       "super": "Harpon",
       "description": "Son harpon le propulse vers les ennemis, dominant en Hot Zone."
     },
     "Gale": {
-      "classe": "Support/Control",
+      "classe": "Controller",
       "emoji": "🌬️",
       "portee": "Courte (zone)",
       "tiers": {
@@ -499,8 +715,16 @@
         "Hot Zone": "A",
         "Knockout": "B"
       },
-      "counters": ["Leon", "Mortis", "Crow"],
-      "synergies": ["Sprout", "Barley", "Frank"],
+      "counters": [
+        "Leon",
+        "Mortis",
+        "Crow"
+      ],
+      "synergies": [
+        "Sprout",
+        "Barley",
+        "Frank"
+      ],
       "super": "Mur de Neige",
       "description": "Contrôle de foule en Brawl Ball, repousse les tanks et bloque les passages."
     },
@@ -517,64 +741,173 @@
         "Hot Zone": "B",
         "Knockout": "C"
       },
-      "counters": ["Piper", "Brock", "Belle"],
-      "synergies": ["Poco", "Byron", "Sandy"],
-      "super": "Ta-Daaa!",
-      "description": "Ses dégâts basés sur les PV max la rendent excellente contre les tanks en Heist."
-    }
-  },
-  "modes": {
-    "Gem Grab": {
-      "emoji": "💎",
-      "description": "Collectez 10 gemmes et tenez-les 15 secondes",
-      "maps": ["Mine de sel", "Puits de l'ombre", "Géode enchantée", "Forêt de cristaux"]
-    },
-    "Brawl Ball": {
-      "emoji": "⚽",
-      "description": "Marquez 2 buts dans les cages adverses",
-      "maps": ["Terrain synthétique", "Pelouse de Super Beach", "Coup de botte", "Penalty locale"]
-    },
-    "Heist": {
-      "emoji": "💰",
-      "description": "Détruisez le coffre ennemi ou défendez le vôtre",
-      "maps": ["Coffre-fort", "Mine d'or", "Casse en bande", "Braquage"]
-    },
-    "Bounty": {
-      "emoji": "⭐",
-      "description": "Gagnez des étoiles en éliminant les ennemis",
-      "maps": ["Prairie étoilée", "Sable à l'étoile", "Prise d'otage", "Terrain miné"]
-    },
-    "Siege": {
-      "emoji": "🔩",
-      "description": "Collectez des boulons pour construire un robot attaquant",
-      "maps": ["Usine en ruine", "Acier froid", "Chantier robot"]
-    },
-    "Hot Zone": {
-      "emoji": "🔥",
-      "description": "Capturez et tenez les zones pour gagner des points",
-      "maps": ["Open Space", "Noeud de serpent", "Canal royal"]
-    },
-    "Knockout": {
-      "emoji": "💀",
-      "description": "Éliminez tous les ennemis sans respawn (meilleur des 3)",
-      "maps": ["Détonateur", "Grotte secrète", "Boucherie"]
-    }
-  },
-  "patches": [
-    {
-      "version": "58.270",
-      "date": "Mai 2025",
-      "titre": "Mise à jour Saison 26",
-      "changements": [
-        {"brawler": "Spike", "type": "buff", "detail": "+200 PV, dégâts d'épines +5%"},
-        {"brawler": "Leon", "type": "nerf", "detail": "Super ralenti de 15%"},
-        {"brawler": "Sandy", "type": "buff", "detail": "Durée du Super +1s"},
-        {"brawler": "Colette", "type": "nerf", "detail": "Dégâts du Super -8%"},
-        {"brawler": "Byron", "type": "buff", "detail": "Soin du Super +10%"}
+      "counters": [
+        "Piper",
+        "Brock",
+        "Belle"
       ],
-      "nouveaux_brawlers": [],
-      "analyse": "Cette mise à jour renforce les supports (Byron, Sandy) et équilibre les assassins (Leon). Spike devient encore plus dominant en Hot Zone."
-    }
-  ],
-  "tier_order": ["S", "A", "B", "C", "D"]
-}
+      "synergies": [
+        "Poco",
+        "Byron",
+        "Sandy"
+      ],
+      "super": "Ta-Daaa!",
+      "description": "Ses dégâts basés sur les PV max la rendent excellente contre les tanks. Top 10 picks mai 2026."
+    },
+    "Belle": {
+      "classe": "Marksman",
+      "emoji": "🔮",
+      "portee": "Très longue",
+      "tiers": {
+        "Gem Grab": "B",
+        "Brawl Ball": "C",
+        "Heist": "A",
+        "Bounty": "S",
+        "Siege": "A",
+        "Hot Zone": "C",
+        "Knockout": "S"
+      },
+      "counters": [
+        "Mortis",
+        "Leon",
+        "Buzz"
+      ],
+      "synergies": [
+        "Gale",
+        "Sprout",
+        "Sandy"
+      ],
+      "super": "Electrocution",
+      "description": "Snipeuse qui marque les ennemis pour amplifier les dégâts de l équipe."
+    },
+    "Ash": {
+      "classe": "Tank",
+      "emoji": "🗑️",
+      "portee": "Courte",
+      "tiers": {
+        "Gem Grab": "A",
+        "Brawl Ball": "A",
+        "Heist": "A",
+        "Bounty": "C",
+        "Siege": "A",
+        "Hot Zone": "S",
+        "Knockout": "B"
+      },
+      "counters": [
+        "Piper",
+        "Brock",
+        "Belle"
+      ],
+      "synergies": [
+        "Byron",
+        "Poco",
+        "Max"
+      ],
+      "super": "Rage Poubelle",
+      "description": "Tank qui devient plus fort en rage. Buffé en avril 2026, solide en Hot Zone."
+    },
+    "Lola": {
+      "classe": "Damage Dealer",
+      "emoji": "🎭",
+      "portee": "Moyenne",
+      "tiers": {
+        "Gem Grab": "B",
+        "Brawl Ball": "B",
+        "Heist": "B",
+        "Bounty": "A",
+        "Siege": "B",
+        "Hot Zone": "B",
+        "Knockout": "A"
+      },
+      "counters": [
+        "Leon",
+        "Mortis",
+        "Crow"
+      ],
+      "synergies": [
+        "Byron",
+        "Sandy",
+        "Poco"
+      ],
+      "super": "Ego",
+      "description": "Crée une copie d elle-même pour distraire et faire des dégâts."
+    },
+    "Fang": {
+      "classe": "Assassin",
+      "emoji": "👟",
+      "portee": "Courte",
+      "tiers": {
+        "Gem Grab": "A",
+        "Brawl Ball": "S",
+        "Heist": "B",
+        "Bounty": "A",
+        "Siege": "A",
+        "Hot Zone": "A",
+        "Knockout": "A"
+      },
+      "counters": [
+        "Shelly",
+        "Darryl",
+        "Bibi"
+      ],
+      "synergies": [
+        "Byron",
+        "Sandy",
+        "Poco"
+      ],
+      "super": "Coup de Pied en Chaîne",
+      "description": "Assassin très polyvalent, excellent dans tous les modes. Solide A tier mai 2026."
+    },
+    "Eve": {
+      "classe": "Damage Dealer",
+      "emoji": "🥚",
+      "portee": "Longue",
+      "tiers": {
+        "Gem Grab": "B",
+        "Brawl Ball": "C",
+        "Heist": "B",
+        "Bounty": "A",
+        "Siege": "A",
+        "Hot Zone": "B",
+        "Knockout": "A"
+      },
+      "counters": [
+        "Mortis",
+        "Leon",
+        "Buzz"
+      ],
+      "synergies": [
+        "Byron",
+        "Sandy",
+        "Gale"
+      ],
+      "super": "Eclosion",
+      "description": "Tire des projectiles en arc qui éclosent en larves, excellent pour contrôler les zones."
+    },
+    "Janet": {
+      "classe": "Marksman",
+      "emoji": "🎤",
+      "portee": "Longue",
+      "tiers": {
+        "Gem Grab": "C",
+        "Brawl Ball": "B",
+        "Heist": "A",
+        "Bounty": "A",
+        "Siege": "A",
+        "Hot Zone": "B",
+        "Knockout": "A"
+      },
+      "counters": [
+        "Mortis",
+        "Leon",
+        "Edgar"
+      ],
+      "synergies": [
+        "Byron",
+        "Sandy",
+        "Poco"
+      ],
+      "super": "Vol en Super",
+      "description": "Vole pendant son super, excellent pour se repositionner."
+    },
+  
