@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 from discord import app_commands
 import json
-from utils.helpers import load_data, tier_emoji
+from helpers import load_data, tier_color, tier_emoji, brawler_autocomplete
 
 class TierList(commands.Cog):
     def __init__(self, bot):
